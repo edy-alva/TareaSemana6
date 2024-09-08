@@ -1,0 +1,8 @@
+Semana 6 - Tarea 1
+
+En base al ejercicio desarrollado en clase, usted debe crear los procedimientos necesarios para crear el Update y Delete de Unidad de Medida, usando como backend PHP.
+
+Productos deben crear el Insert y el Update
+
+
+Autor: Eduardo Alvarado
